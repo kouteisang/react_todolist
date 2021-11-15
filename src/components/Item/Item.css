@@ -11,6 +11,9 @@ li label{
     float: left;
     cursor: pointer;
 }
+li label span{
+    font: 16px PingFang SC;
+}
 
 li button{
     float: right;
