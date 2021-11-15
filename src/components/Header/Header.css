@@ -1,0 +1,20 @@
+.header-container{
+    margin: 10px;
+}
+
+.header-container input{
+    width: 560px;
+    height: 28px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    font-size: 14px;
+    padding: 4px 7px;
+}
+
+.header-container input:focus{
+    outline: none;
+    border-color: rgba(82, 168, 236, 0.8);
+    /* box-shadow: x轴偏移量 y轴偏移量 阴影模糊半径 阴影颜色 inset是向内阴影; */
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6); 
+}

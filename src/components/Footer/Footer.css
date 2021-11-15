@@ -1,0 +1,23 @@
+
+.foot-wrapper{
+    height: 40px;
+    line-height: 40px;
+    margin-top: 10px;
+    padding-left: 6px;
+    margin-bottom: 10px;
+}
+
+div button{
+    margin-top: 5px;
+    margin-right: 6px;
+    float: right;
+    vertical-align: middle;
+}
+
+div label{
+    float: left;
+}
+
+.foot-wrapper label span{
+    margin-left: 20px;
+}
