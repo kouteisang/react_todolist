@@ -16,6 +16,7 @@ div button{
 
 div label{
     float: left;
+    cursor: pointer;
 }
 
 .foot-wrapper label span{
